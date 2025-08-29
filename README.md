@@ -68,7 +68,11 @@ ecommerce-sales-insights/
 ├─ tests/
 │  ├─ test_structure.py
 │  └─ test_imports.py
-└─ dashboards/
+├─ dashboards/
+│   ├─ screenshot_dashboard_home.png
+│   ├─ screenshot_rfm.png
+│   └─ screenshot_forecast.png
+└─ README.md
 ```
 
 ## Notes
@@ -84,8 +88,6 @@ Data & Analytics | ML & MLOps | E-commerce Insights
 *Last updated: 2025-08-22*
 
 ## Screenshots
-
-## Dashboard Screenshots
 
 - **Dashboard Home (KPIs + Revenue trend)**  
   ![Dashboard Home](dashboards/screenshot_dashboard_home.png)
