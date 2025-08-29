@@ -85,6 +85,8 @@ Data & Analytics | ML & MLOps | E-commerce Insights
 
 ## Screenshots
 
+## Dashboard Screenshots
+
 - **Dashboard Home (KPIs + Revenue trend)**  
   ![Dashboard Home](dashboards/screenshot_dashboard_home.png)
 
