@@ -85,16 +85,14 @@ Data & Analytics | ML & MLOps | E-commerce Insights
 
 ## Screenshots
 
-Add your screenshots here after running the app locally.
+- **Dashboard Home (KPIs + Revenue trend)**  
+  ![Dashboard Home](dashboards/screenshot_dashboard_home.png)
 
-- Dashboard Home (KPIs + Revenue trend)  
-  `dashboards/screenshot_dashboard_home.png`
+- **Customer Segmentation (RFM)**  
+  ![Customer Segmentation](dashboards/screenshot_rfm.png)
 
-- Customer Segmentation (RFM)  
-  `dashboards/screenshot_rfm.png`
-
-- Forecast (90-day)  
-  `dashboards/screenshot_forecast.png`
+- **Forecast (90-day)**  
+  ![Forecast](dashboards/screenshot_forecast.png)
 
 > Tip: Take a full-window screenshot and save the PNG files under `dashboards/`. They’re gitignored by default; remove from `.gitignore` or paste images in your GitHub README via drag & drop.
 
